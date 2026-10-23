@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Prueba EON</title>
+    <style>
+        body {
+            background-color: #101827;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 80px 20px;
+        }
+
+        h1 {
+            color: #a69aff;
+            font-size: 45px;
+        }
+
+        button {
+            background-color: #7966ff;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hola, soy EON</h1>
+    <p>Mi primera página está funcionando.</p>
+    <button onclick="alert('¡Bienvenido a EON!')">
+        Comenzar
+    </button>
+</body>
+</html>
